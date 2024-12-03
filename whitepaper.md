@@ -23,7 +23,7 @@ Das Problem
 		Unstrukturierte Daten behindern die Effizienz von KI-Systemen.
         2.	Mangelnde Transparenz und Sicherheit:
 		Viele KI-Systeme agieren als „Black Boxes“.
-		Nutzer haben keine Kontrolle über die Priorisierung oder Nutzung ihrer                 Daten.
+                Nutzer haben keine Kontrolle über die Priorisierung oder Nutzung ihrer  Daten.
 	3.	Zentralisierte Systeme:
 		Cloud-basierte Speicher sind anfällig für Ausfälle und Sicherheitsrisiken.
 		Nutzer verlieren die Souveränität über ihre Daten.
